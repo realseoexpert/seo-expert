@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SEO Expert",
-    "currentPage": "index.html",
+    "currentPage": "googleb3e94cc7223c8d33.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -29,7 +29,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 10,
+    "uniqCompNum": 11,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png"
   },
@@ -298,6 +298,17 @@
           "_customHTML": "google-site-verification: googleb3e94cc7223c8d33.html",
           "_cid": "r0k68d4csA",
           "_anchor": "footer1-9",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_protectedParams": [],
+          "_params": {}
+        },
+        {
+          "_styles": {},
+          "_name": "content1",
+          "_customHTML": "google-site-verification: googleb3e94cc7223c8d33.html",
+          "_cid": "r0BSeJhxqQ",
+          "_anchor": "content1-a",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_protectedParams": [],
